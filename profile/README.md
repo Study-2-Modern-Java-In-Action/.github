@@ -38,3 +38,16 @@
 | 조재철 | [JoisFe](https://github.com/JoisFe) |
 
 ---
+
+## CHAPTER 1️⃣. 자바 8, 9, 10, 11 : 무슨 일이 일어나고 있는가?
+
+| 해당 챕터 Discussion | 담당자 |
+| --- | --- |
+|  | [ding_cook](https://github.com/bunsung92) |
+|  | [coalong](https://github.com/coalong) |
+|  | [crupy](https://github.com/crupy) |
+|  | [ahngilwoong](https://github.com/ahngilwoong)
+|  | [isohyeon](https://github.com/isohyeon) |
+|  | [CoRock](https://github.com/corock) |
+|  | [Youngju-Jang](https://github.com/Youngju-Jang) |
+|  | [JoisFe](https://github.com/JoisFe) |
