@@ -50,4 +50,4 @@
 |  | [isohyeon](https://github.com/isohyeon) |
 |  | [CoRock](https://github.com/corock) |
 |  | [Youngju-Jang](https://github.com/Youngju-Jang) |
-|  | [JoisFe](https://github.com/JoisFe) |
+| [JoisFe 정리내용](https://github.com/orgs/Study-2-Modern-Java-In-Action/discussions/4) | [JoisFe](https://github.com/JoisFe) |
