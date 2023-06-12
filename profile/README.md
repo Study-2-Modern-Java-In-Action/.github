@@ -55,7 +55,7 @@
 
 | Discussion | 담당자 |
 | --- | --- |
-| [ding_cook 정리]([https://github.com/orgs/Study-2-Modern-Java-In-Action/discussions/2](https://github.com/orgs/Study-2-Modern-Java-In-Action/discussions/12)) | [ding_cook](https://github.com/bunsung92) |
+| [ding_cook 정리](https://github.com/orgs/Study-2-Modern-Java-In-Action/discussions/12) | [ding_cook](https://github.com/bunsung92) |
 | [coalong 정리](https://github.com/orgs/Study-2-Modern-Java-In-Action/discussions/17) | [coalong](https://github.com/coalong) |
 | [crupy 정리](https://github.com/orgs/Study-2-Modern-Java-In-Action/discussions/10) | [crupy](https://github.com/crupy) |
 | [ahngilwoong 정리](https://github.com/orgs/Study-2-Modern-Java-In-Action/discussions/16) | [ahngilwoong](https://github.com/ahngilwoong) |
