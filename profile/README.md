@@ -1,6 +1,6 @@
 # 모던 자바 인 액션 스터디 📝
 
-### [enjoy discussing with us! 😁](https://github.com/bunsung92/Modern-Java-in-Action-Study/discussions) 
+### [enjoy discussing with us! 😁](https://github.com/orgs/Study-2-Modern-Java-In-Action/discussions) 
 
 <img width="461" alt="image" src="https://github.com/bunsung92/Modern-Java-in-Action-Study/assets/53285909/4b7997f5-ecd8-4ab7-b914-a83d5bcaa638">
 
